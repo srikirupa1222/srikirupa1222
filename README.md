@@ -20,7 +20,7 @@ I build practical automation workflows and experiment with local LLMs, AI agents
 
 - 🤖 AI Engineer interested in building useful AI systems and automation.
 - ⚙️ Experienced with workflow development, browser automation, and low-code/no-code platforms such as **UiPath** and **PEGA**.
-- 🧩 Helped develop and test automated workflows supporting **15+ portals** in a professional environment.
+- 🧩 Helped develop and test automated workflows supporting **various portals** in a professional environment.
 - 🧪 Exploring local LLMs, AI agents, RAG, fine-tuning, and model evaluation through hands-on projects.
 - 🌱 I learn by experimenting, testing ideas, and understanding how systems work under the hood.
 - 🤝 Interested in contributing to open-source AI agents, developer tools, and automation/productivity projects.
@@ -38,63 +38,37 @@ I build practical automation workflows and experiment with local LLMs, AI agents
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-
+<img src="https://www.pega.com/sites/default/files/styles/1024/public/media/images/2021-10/pega-logo-horiztonal-prevcard.png?itok=C5-EphPx" alt="Official Pega logo" height="28" />
 </div>
 
 **Areas of interest:** AI agents and tool use · RAG and document intelligence · Local LLMs · Browser automation · Workflow engineering · Model evaluation
 
-## 🚀 Projects
+## ⚙️ What I Do
 
-> These projects are at different stages of development. Their status is included so you can see what is experimental and what is still being built. Repository links will be added when the projects are published.
-
-### 1. SmartBuddy — Local AI Study Assistant
-**Status:** Prototype
-
-A local-first study assistant designed to let users ask questions about their own learning materials and other supported sources.
-
-- Built with Python and Streamlit, with Ollama for local model inference.
-- Explores document ingestion and retrieval for conversational Q&A.
-- Planned/supported source types include PDF, TXT, DOCX, CSV, URLs, and YouTube transcripts.
-
-**Tech:** `Python` `Streamlit` `Ollama` `RAG`
-
-### 2. ReAct Study Coach Agent
-**Status:** In progress
-
-A tool-using study assistant built around a local LLM, with a loop for selecting tools and working toward a final response.
-
-- Uses Ollama with Qwen2.5 7B.
-- Developing tools for calculations, note-taking and retrieval, web search, study planning, task state, and YouTube-related workflows.
-- Exploring reliable action selection, structured outputs, and multi-step tool execution.
-
-**Tech:** `Python` `Ollama` `Qwen2.5 7B` `AI Agents`
-
-### 3. Local PDF Summarizer
-**Status:** Experiment
-
-An experiment in extracting text from PDFs and generating concise summaries with local LLM inference.
-
-- Uses PyMuPDF for PDF text extraction and Ollama for local inference.
-- Measures extraction and inference performance to understand practical latency.
-- In one personal test, a two-page PDF with 3,377 characters took approximately **410 seconds** for inference. This is an observed experiment, not a general performance benchmark.
-
-**Tech:** `Python` `PyMuPDF` `Ollama` `Local LLMs`
-
-## 💼 Professional Experience Highlights
-
-- Helped develop and test automated workflows across **various portals**.
-- Contributed to workflow development in an internal automation platform, including browser automation using tools such as Playwright and Puppeteer.
-- Work with low-code/no-code automation platforms, including UiPath and PEGA, alongside ongoing AI engineering development.
+- **Workflow automation:** Help develop and test automated workflows for multi-portal processes.
+- **Browser automation:** Work with browser automation approaches and tools such as Playwright and Puppeteer.
+- **Low-code/no-code platforms:** Apply experience with UiPath and PEGA to workflow and automation development.
+- **AI engineering:** Explore local LLMs and practical AI patterns through experiments and ongoing learning.
 
 
-## 🌱 Currently Learning
+## 🔭 Currently Exploring
 
-- Building AI agents with tool use, memory, and multi-step workflows
-- LangGraph and agent orchestration
-- Retrieval-Augmented Generation (RAG) and document intelligence
-- Fine-tuning approaches and model evaluation
-- Improving the reliability and practical usefulness of local AI systems
-- Contributing to open-source AI agents, developer tools, and automation projects
+- **AI agents:** Tool use, memory, structured outputs, and multi-step execution
+- **Agent orchestration:** Learning LangGraph and agent design patterns
+- **RAG and document intelligence:** Connecting language models to relevant source material
+- **Local LLMs:** Running and evaluating models locally with tools such as Ollama
+- **Fine-tuning and model evaluation:** Understanding model adaptation, quality, and reliability
+- **Practical AI systems:** Making AI-powered workflows more useful, measurable, and dependable
+
+## 🧭 Engineering Interests
+
+I'm especially interested in the intersection of **AI engineering and automation**: systems that go beyond a simple chat interface to help people complete useful tasks.
+
+Areas I want to explore further:
+- AI agents and developer productivity tools
+- Open-source AI tooling and local-first applications
+- Document processing and knowledge workflows
+- Reliable automation, testing, and evaluation
 
 ## 🤝 Open to
 
