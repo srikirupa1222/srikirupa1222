@@ -82,12 +82,10 @@ An experiment in extracting text from PDFs and generating concise summaries with
 
 ## 💼 Professional Experience Highlights
 
-- Helped develop and test automated workflows across **15+ portals**.
+- Helped develop and test automated workflows across **various portals**.
 - Contributed to workflow development in an internal automation platform, including browser automation using tools such as Playwright and Puppeteer.
-- In the reported workflow, work that previously took around a week was reduced to approximately half a day. This is a professional workflow outcome, not a claim about every process or portal.
 - Work with low-code/no-code automation platforms, including UiPath and PEGA, alongside ongoing AI engineering development.
 
-*Professional examples are intentionally described at a high level; no confidential company code, customer data, or internal implementation details are included.*
 
 ## 🌱 Currently Learning
 
